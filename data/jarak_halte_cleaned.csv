@@ -1,0 +1,116 @@
+rute,arah,no,dari,ke,jarak_m,jarak_km
+2,Pulo Gadung -> Monumen Nasional,1.0,Pulo Gadung,Bermis,2673,2.67
+2,Pulo Gadung -> Monumen Nasional,2.0,Bermis,Pulomas,2713,2.71
+2,Pulo Gadung -> Monumen Nasional,3.0,Pulomas,Perintis Kemerdekaan,1149,1.15
+2,Pulo Gadung -> Monumen Nasional,4.0,Perintis Kemerdekaan,Pedongkelan,1528,1.53
+2,Pulo Gadung -> Monumen Nasional,5.0,Pedongkelan,Cempaka Mas,761,0.76
+2,Pulo Gadung -> Monumen Nasional,6.0,Cempaka Mas,Sumur Batu,1968,1.97
+2,Pulo Gadung -> Monumen Nasional,7.0,Sumur Batu,Cempaka Baru,980,0.98
+2,Pulo Gadung -> Monumen Nasional,8.0,Cempaka Baru,Pasar Cempaka Putih,508,0.51
+2,Pulo Gadung -> Monumen Nasional,9.0,Pasar Cempaka Putih,Rawa Selatan,7515,7.51
+2,Pulo Gadung -> Monumen Nasional,10.0,Rawa Selatan,Galur,12459,12.46
+2,Pulo Gadung -> Monumen Nasional,11.0,Galur,Senen Toyota Rangga,3929,3.93
+2,Pulo Gadung -> Monumen Nasional,12.0,Senen Toyota Rangga,Senen Raya,395,0.4
+2,Pulo Gadung -> Monumen Nasional,13.0,Senen Raya,RSPAD,544,0.54
+2,Pulo Gadung -> Monumen Nasional,14.0,RSPAD,Pejambon,351,0.35
+2,Pulo Gadung -> Monumen Nasional,15.0,Pejambon,Gambir,877,0.88
+2,Pulo Gadung -> Monumen Nasional,16.0,Gambir,Istiqlal,310,0.31
+2,Pulo Gadung -> Monumen Nasional,17.0,Istiqlal,Juanda,834,0.83
+2,Pulo Gadung -> Monumen Nasional,18.0,Juanda,Pecenongan,656,0.66
+2,Pulo Gadung -> Monumen Nasional,19.0,Pecenongan,Monumen Nasional,3442,3.44
+2,Monumen Nasional -> Pulo Gadung,1.0,Monumen Nasional,Balai Kota,1185,1.19
+2,Monumen Nasional -> Pulo Gadung,2.0,Balai Kota,Gambir 2,794,0.79
+2,Monumen Nasional -> Pulo Gadung,3.0,Gambir 2,Kwitang,1901,1.9
+2,Monumen Nasional -> Pulo Gadung,4.0,Kwitang,Senen Toyota Rangga,3154,3.15
+2,Monumen Nasional -> Pulo Gadung,5.0,Senen Toyota Rangga,Galur,2815,2.81
+2,Monumen Nasional -> Pulo Gadung,6.0,Galur,Rawa Selatan,9282,9.28
+2,Monumen Nasional -> Pulo Gadung,7.0,Rawa Selatan,Pasar Cempaka Putih,12360,12.36
+2,Monumen Nasional -> Pulo Gadung,8.0,Pasar Cempaka Putih,Cempaka Baru,4202,4.2
+2,Monumen Nasional -> Pulo Gadung,9.0,Cempaka Baru,Sumur Batu,848,0.85
+2,Monumen Nasional -> Pulo Gadung,10.0,Sumur Batu,Cempaka Mas,3291,3.29
+2,Monumen Nasional -> Pulo Gadung,11.0,Cempaka Mas,Pedongkelan,2709,2.71
+2,Monumen Nasional -> Pulo Gadung,12.0,Pedongkelan,Perintis Kemerdekaan,1736,1.74
+2,Monumen Nasional -> Pulo Gadung,13.0,Perintis Kemerdekaan,Pulomas,1788,1.79
+2,Monumen Nasional -> Pulo Gadung,14.0,Pulomas,Bermis,2498,2.5
+2,Monumen Nasional -> Pulo Gadung,15.0,Bermis,Pulo Gadung,4907,4.91
+4,Pulo Gadung -> Galunggung,1.0,Pulo Gadung,Pasar Pulo Gadung,3416,3.42
+4,Pulo Gadung -> Galunggung,2.0,Pasar Pulo Gadung,Pemuda Merdeka,664,0.66
+4,Pulo Gadung -> Galunggung,3.0,Pemuda Merdeka,Layur,671,0.67
+4,Pulo Gadung -> Galunggung,4.0,Layur,Pemuda Rawamangun,812,0.81
+4,Pulo Gadung -> Galunggung,5.0,Pemuda Rawamangun,Velodrome,1039,1.04
+4,Pulo Gadung -> Galunggung,6.0,Velodrome,Kayu Jati,3068,3.07
+4,Pulo Gadung -> Galunggung,7.0,Kayu Jati,Rawamangun,2248,2.25
+4,Pulo Gadung -> Galunggung,8.0,Rawamangun,Simpang Pramuka 1,6615,6.61
+4,Pulo Gadung -> Galunggung,8.0,Rawamangun,Simpang Pramuka 2,950,0.95
+4,Pulo Gadung -> Galunggung,9.0,Simpang Pramuka 1,Pramuka Sari,3723,3.72
+4,Pulo Gadung -> Galunggung,9.0,Simpang Pramuka 2,Pramuka Sari,600,0.6
+4,Pulo Gadung -> Galunggung,10.0,Pramuka Sari,Utan Kayu,1945,1.94
+4,Pulo Gadung -> Galunggung,11.0,Utan Kayu,Pasar Genjing,441,0.44
+4,Pulo Gadung -> Galunggung,12.0,Pasar Genjing,Matraman,2991,2.99
+4,Pulo Gadung -> Galunggung,13.0,Matraman,Tegalan,2320,2.32
+4,Pulo Gadung -> Galunggung,14.0,Tegalan,Kesatrian,1794,1.79
+4,Pulo Gadung -> Galunggung,15.0,Kesatrian,Manggarai Temporer 1,1600,1.6
+4,Pulo Gadung -> Galunggung,15.0,Kesatrian,Manggarai Temporer 2,2400,2.4
+4,Pulo Gadung -> Galunggung,16.0,Manggarai Temporer 1,Pasar Rumput,1100,1.1
+4,Pulo Gadung -> Galunggung,16.0,Manggarai Temporer 2,Pasar Rumput,650,0.65
+4,Pulo Gadung -> Galunggung,17.0,Pasar Rumput,Halimun,890,0.89
+4,Pulo Gadung -> Galunggung,18.0,Halimun,Galunggung,1206,1.21
+4,Galunggung -> Pulo Gadung,1.0,Galunggung,Halimun,2567,2.57
+4,Galunggung -> Pulo Gadung,2.0,Halimun,Pasar Rumput,4102,4.1
+4,Galunggung -> Pulo Gadung,3.0,Pasar Rumput,Manggarai Temporer 1,1100,1.1
+4,Galunggung -> Pulo Gadung,3.0,Pasar Rumput,Manggarai Temporer 2,650,0.65
+4,Galunggung -> Pulo Gadung,4.0,Manggarai Temporer 1,Flyover Pramuka,3200,3.2
+4,Galunggung -> Pulo Gadung,4.0,Manggarai Temporer 2,Flyover Pramuka,3200,3.2
+4,Galunggung -> Pulo Gadung,5.0,Flyover Pramuka,Pasar Genjing,6274,6.27
+4,Galunggung -> Pulo Gadung,6.0,Pasar Genjing,Utan Kayu,4698,4.7
+4,Galunggung -> Pulo Gadung,7.0,Utan Kayu,Pramuka Sari,3194,3.19
+4,Galunggung -> Pulo Gadung,8.0,Pramuka Sari,Simpang Pramuka 1,4114,4.11
+4,Galunggung -> Pulo Gadung,8.0,Pramuka Sari,Simpang Pramuka 2,600,0.6
+4,Galunggung -> Pulo Gadung,9.0,Simpang Pramuka 1,Rawamangun,5033,5.03
+4,Galunggung -> Pulo Gadung,9.0,Simpang Pramuka 2,Rawamangun,950,0.95
+4,Galunggung -> Pulo Gadung,10.0,Rawamangun,Kayu Jati,375,0.38
+4,Galunggung -> Pulo Gadung,11.0,Kayu Jati,Velodrome,506,0.51
+4,Galunggung -> Pulo Gadung,12.0,Velodrome,Pemuda Rawamangun,2377,2.38
+4,Galunggung -> Pulo Gadung,13.0,Pemuda Rawamangun,Layur,2185,2.19
+4,Galunggung -> Pulo Gadung,14.0,Layur,Pemuda Merdeka,2263,2.26
+4,Galunggung -> Pulo Gadung,15.0,Pemuda Merdeka,Pasar Pulo Gadung,1168,1.17
+4,Galunggung -> Pulo Gadung,16.0,Pasar Pulo Gadung,Pulo Gadung,1070,1.07
+5C,Cililitan -> Juanda,1.0,Cililitan,Cawang Cililitan,650,0.65
+5C,Cililitan -> Juanda,2.0,Cawang Cililitan,Cawang Sentral,1354,1.35
+5C,Cililitan -> Juanda,3.0,Cawang Sentral,Cawang,1300,1.3
+5C,Cililitan -> Juanda,4.0,Cawang,Cawang Baru,1296,1.3
+5C,Cililitan -> Juanda,5.0,Cawang Baru,Gelanggang Remaja,934,0.93
+5C,Cililitan -> Juanda,6.0,Gelanggang Remaja,Bidara Cina,2861,2.86
+5C,Cililitan -> Juanda,7.0,Bidara Cina,Kampung Melayu,2883,2.88
+5C,Cililitan -> Juanda,8.0,Kampung Melayu,Matraman Baru,3056,3.06
+5C,Cililitan -> Juanda,9.0,Matraman Baru,Kesatrian,2975,2.98
+5C,Cililitan -> Juanda,10.0,Kesatrian,Tegalan,1208,1.21
+5C,Cililitan -> Juanda,11.0,Tegalan,Matraman,1856,1.86
+5C,Cililitan -> Juanda,12.0,Matraman,Paseban,4831,4.83
+5C,Cililitan -> Juanda,13.0,Paseban,Salemba,1289,1.29
+5C,Cililitan -> Juanda,14.0,Salemba,Kramat Sentiong,1165,1.16
+5C,Cililitan -> Juanda,15.0,Kramat Sentiong,Pal Putih,3424,3.42
+5C,Cililitan -> Juanda,16.0,Pal Putih,Kwitang,1852,1.85
+5C,Cililitan -> Juanda,17.0,Kwitang,Balai Kota,2038,2.04
+5C,Cililitan -> Juanda,18.0,Balai Kota,Monumen Nasional,1627,1.63
+5C,Cililitan -> Juanda,19.0,Monumen Nasional,Pecenongan,1905,1.9
+5C,Cililitan -> Juanda,20.0,Pecenongan,Juanda,584,0.58
+5C,Juanda -> Cililitan,1.0,Juanda,Lapangan Banteng,2124,2.12
+5C,Juanda -> Cililitan,2.0,Lapangan Banteng,Pal Putih,2119,2.12
+5C,Juanda -> Cililitan,3.0,Pal Putih,Kramat Sentiong,782,0.78
+5C,Juanda -> Cililitan,4.0,Kramat Sentiong,Salemba,1102,1.1
+5C,Juanda -> Cililitan,5.0,Salemba,Paseban,1088,1.09
+5C,Juanda -> Cililitan,6.0,Paseban,Matraman,1721,1.72
+5C,Juanda -> Cililitan,7.0,Matraman,Tegalan,2320,2.32
+5C,Juanda -> Cililitan,8.0,Tegalan,Kesatrian,1794,1.79
+5C,Juanda -> Cililitan,9.0,Kesatrian,Matraman Baru,2754,2.75
+5C,Juanda -> Cililitan,10.0,Matraman Baru,Bali Mester,1227,1.23
+5C,Juanda -> Cililitan,11.0,Bali Mester,Jatinegara,683,0.68
+5C,Juanda -> Cililitan,12.0,Jatinegara,Kampung Melayu,2487,2.49
+5C,Juanda -> Cililitan,13.0,Kampung Melayu,Bidara Cina,3249,3.25
+5C,Juanda -> Cililitan,14.0,Bidara Cina,Gelanggang Remaja,1097,1.1
+5C,Juanda -> Cililitan,15.0,Gelanggang Remaja,Cawang Baru,2088,2.09
+5C,Juanda -> Cililitan,16.0,Cawang Baru,Cawang,2488,2.49
+5C,Juanda -> Cililitan,17.0,Cawang,Cawang Sentral,1600,1.6
+5C,Juanda -> Cililitan,18.0,Cawang Sentral,Cawang Cililitan,1672,1.67
+5C,Juanda -> Cililitan,19.0,Cawang Cililitan,Cililitan,900,0.9
